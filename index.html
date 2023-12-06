@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+
+    <title>Movies</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
+    <link href="https://cdn.rawgit.com/noelboss/featherlight/1.7.6/release/featherlight.min.css" type="text/css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/movies.css">
+    <script src="https://cdn.jsdelivr.net/npm/lazyload@2.0.0-beta.1/lazyload.js"></script>
+
+</head>
+<style>
+    .controls option {
+        color: black;
+    }
+</style>
+
+<body>
+
+    <header>
+        <div class="controls">
+            <select class="filter">
+                <option data-filter="*">All Genre</option>
+                <option data-filter=".action">Action</option>
+                <option data-filter=".adventure">Adventure</option>
+                <option data-filter=".adult">Adult</option>
+                <option data-filter=".animation">Animation</option>
+                <option data-filter=".comedy">Comedy</option>
+                <option data-filter=".crime">Crime</option>
+                <option data-filter=".drama">Drama</option>
+                <option data-filter=".documentary">Documentary</option>
+                <option data-filter=".family">Family</option>
+                <option data-filter=".fantasy">Fantasy</option>
+                <option data-filter=".history">History</option>
+                <option data-filter=".horror">Horror</option>
+                <option data-filter=".music">Music</option>
+                <option data-filter=".mystery">Mystery</option>
+                <option data-filter=".romance">Romance</option>
+                <option data-filter=".science">Science Fiction</option>
+                <option data-filter=".thriller">Thriller</option>
+                <option data-filter=".tv">TV Movie</option>
+                <option data-filter=".war">War</option>
+                <option data-filter=".western">Western</option>
+            </select>
+
+            <select class="sort">
+                <option data-sort-value="">None</option>
+                <option data-sort-value="titleAscending">Title: A > Z</option>
+                <option data-sort-value="titleDescending">Title: Z > A</option>
+                <option data-sort-value="releaseNew">Release Date: New > Old</option>
+                <option data-sort-value="releaseOld">Release Date: Old > New</option>
+                <option data-sort-value="lengthShort">Length: Short > Long</option>
+                <option data-sort-value="lengthLong">Length: Long > Short</option>
+            </select>
+
+            <div class="search">
+                <input type="text" class="searchTerm" placeholder="Search">
+            </div>
+
+        </div>
+    </header>
+
+    <div class="container-fluid"></div>
+
+    <footer>
+        <div class="footer-thanks-tmdb">
+            <div class="footer-title">This site uses the <a href="https://www.themoviedb.org/" target="_blank">TMDb</a> API but is not endorsed or certified by TMDb</div>
+        </div>
+
+<!--        <div class="footer-thanks-artists">
+            <div class="footer-title">Special thanks to all the movie poster artists:</div>
+            <ul>
+                <li><a href="https://www.chungkong.nl/" target="_blank">Chung Kong</a></li>
+            </ul>
+        </div>
+-->
+    </footer>
+
+</body>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.js"></script>
+<script src="https://cdn.rawgit.com/noelboss/featherlight/1.7.6/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="js/movies.js"></script>
+
+</html>
