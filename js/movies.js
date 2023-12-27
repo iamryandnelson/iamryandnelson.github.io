@@ -158,6 +158,17 @@ $(document).ready(function () {
             genre: ["Drama", "Animation", "Family", "Comedy", "Fantasy"]
         },
         {
+            title: "All Governments Lie: Truth, Deception, and the Spirit of I.F. Stone",
+            id: 410205,
+            overview: "Vancouver-based filmmaker and TV news veteran Fred Peabody explores the life and legacy of the maverick American journalist I.F. Stone, whose long one-man crusade against government deception lives on in the work of such contemporary filmmakers and journalists as Laura Poitras, Glenn Greenwald, David Corn, and Matt Taibbi.",
+            runtime: "1 hr 31 mins",
+            release_date: "November 04, 2016",
+            wikipedia: "All_Governments_Lie:_Truth,_Deception_and_the_Spirit_of_I._F._Stone",
+            trailer: "C_cKC0_sGu0",
+            poster: "img/all_governments_lie.jpg",
+            genre: ["Documentary"]
+        },
+        {
             title: "Alpha Dog",
             id: 0015,
             overview: "Johnny Truelove likes to see himself as tough. He's the son of an underworld figure and a drug dealer. Johnny also likes to get tough when things don't go his way. When Jake Mazursky fails to pay up for Johnny, things get worse for the Mazursky family, as Johnny and his 'gang' kidnap Jake's 15 year old brother and holds him hostage. Problem now is what to do with 'stolen boy?'",
@@ -695,6 +706,17 @@ $(document).ready(function () {
             trailer: "vCoGAZJQGmU",
             poster: "img/brewsters_millions.jpg",
             genre: ["Comedy"]
+        },
+        {
+            title: "Bridge of Spies",
+            id: 296098,
+            overview: "During the Cold War, the Soviet Union captures U.S. pilot Francis Gary Powers after shooting down his U-2 spy plane. Sentenced to 10 years in prison, Powers' only hope is New York lawyer James Donovan, recruited by a CIA operative to negotiate his release. Donovan boards a plane to Berlin, hoping to win the young man's freedom through a prisoner exchange. If all goes well, the Russians would get Rudolf Abel, the convicted spy who Donovan defended in court.",
+            runtime: "2 hrs 21 mins",
+            release_date: "October 16, 2015",
+            wikipedia: "Bridge_of_Spies_(film)",
+            trailer: "owhBnicLZt4",
+            poster: "img/bridge_of_spies.jpg",
+            genre: ["Thriller", "Drama"]
         },
         {
             title: "Bugsy",
@@ -2754,9 +2776,20 @@ $(document).ready(function () {
             genre: ["Adventure", "Fantasy", "Drama"]
         },
         {
+            title: "Munich",
+            id: 612,
+            overview: "During the 1972 Olympic Games in Munich, eleven Israeli athletes are taken hostage and murdered by a Palestinian terrorist group known as Black September. In retaliation, the Israeli government recruits a group of Mossad agents to track down and execute those responsible for the attack.",
+            runtime: "2 hrs 44 mins",
+            release_date: "December 23, 2005",
+            wikipedia: "Munich_(2005_film)",
+            trailer: "OuT_uh0CAf8",
+            poster: "img/munich.jpg",
+            genre: ["Drama", "Action", "History", "Thriller"]
+        },
+        {
             title: "My Cousin Vinny",
             id: 10377,
-            overview: "Two carefree pals traveling through Alabama are mistakenly arrested, and charged with murder. Fortunately, one of them has a cousin who's a lawyer - Vincent Gambini, a former auto mechanic from Brooklyn who just passed his bar exam after his sixth try. When he arrives with his leather-clad girlfriend , to try his first case, it's a real shock - for him and the Deep South!",
+            overview: "Two carefree pals traveling through Alabama are mistakenly arrested, and charged with murder. Fortunately, one of them has a cousin who's a lawyer - Vincent Gambini, a former auto mechanic from Brooklyn who just passed his bar exam after his sixth try. When he arrives with his leather-clad girlfriend, to try his first case, it's a real shock - for him and the Deep South!",
             runtime: "2 hrs 0 mins",
             release_date: "March 13, 1992",
             wikipedia: "My_Cousin_Vinny",
