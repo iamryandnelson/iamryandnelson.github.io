@@ -2303,6 +2303,17 @@ $(document).ready(function () {
             genre: ["Adventure", "Fantasy", "Action", "Comedy", "Family"]
         },
         {
+            title: "Legend",
+            id: 276907,
+            overview: "Suave, charming and volatile, Reggie Kray and his unstable twin brother Ronnie start to leave their mark on the London underworld in the 1960s. Using violence to get what they want, the siblings orchestrate robberies and murders while running nightclubs and protection rackets. With police Detective Leonard \"Nipper\" Read hot on their heels, the brothers continue their rapid rise to power and achieve tabloid notoriety.",
+            runtime: "2 hrs 12 mins",
+            release_date: "November 20, 2015",
+            wikipedia: "Legend_(2015_film)",
+            trailer: "WVHlrfzLjd4",
+            poster: "img/legend.jpg",
+            genre: ["Crime", "Thriller"]
+        },
+        {
             title: "Leon: The Professional",
             id: 101,
             overview: "Leon, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in Leon's footsteps.",
@@ -3401,6 +3412,17 @@ $(document).ready(function () {
             trailer: "7XLQ1bkSLDo",
             poster: "img/sicario.jpg",
             genre: ["Action", "Crime", "Drama", "Mystery", "Thriller"]
+        },
+        {
+            title: "Sisu",
+            id: 840326,
+            overview: "Deep in the wilderness of Lapland, Aatami Korpi is searching for gold but after he stumbles upon Nazi patrol, a breathtaking and gold-hungry chase through the destroyed and mined Lapland wilderness begins.",
+            runtime: "1 hr 31 mins",
+            release_date: "April 28, 2023",
+            wikipedia: "Sisu_(film)",
+            trailer: "d2k4QAItiSA",
+            poster: "img/sisu.jpg",
+            genre: ["Action", "War", "Western"]
         },
         {
             title: "Sleepless in Seattle",
