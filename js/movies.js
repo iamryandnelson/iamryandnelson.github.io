@@ -961,6 +961,28 @@ $(document).ready(function () {
             genre: ["Comedy"]
         },
         {
+            title: "Deadpool",
+            id: 293660,
+            overview: "The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+            runtime: "1 hr 48 mins",
+            release_date: "February 12, 2016",
+            wikipedia: "Deadpool_(film)",
+            trailer: "ONHBaC-pfsk",
+            poster: "img/deadpool.jpg",
+            genre: ["Action", "Adventure", "Comedy"]
+        },
+        {
+            title: "Deadpool 2",
+            id: 383498,
+            overview: "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
+            runtime: "2 hrs 0 mins",
+            release_date: "May 10, 2018",
+            wikipedia: "Deadpool_2",
+            trailer: "D86RtevtfrA",
+            poster: "img/deadpool_2.jpg",
+            genre: ["Action", "Adventure", "Comedy"]
+        },
+        {
             title: "Death on the Nile",
             id: 505026,
             overview: "Belgian sleuth Hercule Poirot boards a glamorous river steamer with enough champagne to fill the Nile. But his Egyptian vacation turns into a thrilling search for a murderer when a picture-perfect couple’s idyllic honeymoon is tragically cut short.",
