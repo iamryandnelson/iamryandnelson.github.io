@@ -1665,6 +1665,17 @@ $(document).ready(function () {
             genre: ["Comedy", "Family", "Adventure", "Crime"]
         },
         {
+            title: "Honey, I Shrunk the Kids",
+            id: 9354,
+            overview: "The scientist father of a teenage girl and boy accidentally shrinks his and two other neighborhood teens to the size of insects. Now the teens must fight diminutive dangers as the father searches for them.",
+            runtime: "1 hr 33 mins",
+            release_date: "June 23, 1989",
+            wikipedia: "Honey,_I_Shrunk_the_Kids",
+            trailer: "_av5kqcMVm4",
+            poster: "img/honey_i_shrunk_the_kids.jpg",
+            genre: ["Adventure", "Comedy", "Family", "Science Fiction"]
+        },
+        {
             title: "House of 1000 Corpses",
             id: 2662,
             overview: "Two teenage couples traveling across the backwoods of Texas searching for urban legends of serial killers end up as prisoners of a bizarre and sadistic backwater family of serial killers.",
