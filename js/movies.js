@@ -1423,6 +1423,17 @@ $(document).ready(function () {
             genre: ["Action", "Drama", "Western"]
         },
         {
+            title: "Gladiator",
+            id: 98,
+            overview: "In the year 180, the death of Emperor Marcus Aurelius throws the Roman Empire into chaos. Maximus is one of the Roman army's most capable and trusted generals, as well as a key advisor to the emperor. As Marcus' devious son Commodus ascends to the throne, Maximus is sentenced to execution. He escapes but is captured by slave traders. Renamed \"Spaniard\" and forced to become a gladiator, Maximus must battle to the death against other men for the amusement of paying audiences.",
+            runtime: "2 hr 50 mins",
+            release_date: "May 5, 2000",
+            wikipedia: "Gladiator_(2000_film)",
+            trailer: "TcYIqlBihW4",
+            poster: "img/gladiator.jpg",
+            genre: ["Action", "Drama", "Adventure"]
+        },
+        {
             title: "Going Clear: Scientology And The Prison Of Belief",
             id: 318224,
             overview: "GOING CLEAR intimately profiles eight former members of the Church of Scientology, shining a light on how they attract true believers and the things they do in the name of religion.",
